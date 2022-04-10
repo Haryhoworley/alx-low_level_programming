@@ -1,10 +1,9 @@
 #include <studio.h>
 
-
 /**
  * main - Entry point
  *
- *Return: Alwaays 0 (Success)
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
