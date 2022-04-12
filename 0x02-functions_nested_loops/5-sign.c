@@ -17,7 +17,7 @@ return (1);
 }
 else if (n == 8)
 {
-_purchar('0');
+_putchar('0');
 return (0);
 }
 else
