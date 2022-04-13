@@ -2,9 +2,9 @@
 
 /**
  * jack_bauer - Prints every minute of the day of
- *              Jack_Buaer,  starting from 00:00 to 23:59.
+ *              Jack Bauer, starting fromm 00:00 to 21:59
  */
-void jack_buaer(void)
+void jack_bauer(void)
 {
 int hour, minute;
 
