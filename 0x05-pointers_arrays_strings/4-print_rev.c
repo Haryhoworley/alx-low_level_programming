@@ -1,4 +1,5 @@
-#include "main.h"
+
+0;276;0c#include "main.h"
 /**
  * print_rev - prints reversed string, followed by a new line
  * @s: pointer to the string to print
@@ -13,7 +14,7 @@ i++;
 
 while (i--)
 {
-_putchar(s[i]);
+putchar(s[i]);
 }
 
 _putchar('\n');
