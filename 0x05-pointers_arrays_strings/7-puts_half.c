@@ -20,7 +20,7 @@ len++;
 {
 for (i = len / 2; str[i] != '\0'; i++)
 {
-_putchar(str[i]);
+_ putchar(str[i]);
 }
 }else if (len % 2)
 {
