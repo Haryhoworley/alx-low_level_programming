@@ -14,7 +14,7 @@ char temp;
 for (len = 0; s[len] != '\0';
 len++)
 ;
-  
+
 i = 0;
 
 half = len / 2;
