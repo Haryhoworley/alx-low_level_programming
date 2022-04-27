@@ -2,8 +2,8 @@
 
 /**
  * _strchr - Entry point
- * @s: input 
- * @c: imput
+ * @s: input
+ * @c: input
  * Return: Always 0 (Sucess)
  */
 
