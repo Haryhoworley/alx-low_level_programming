@@ -14,7 +14,7 @@ int i = 0;
 for (; s[i] >= '\0'; i++)
 {
 if (s[i] == c)
-Return (&s[i]);
+return (&s[i]);
 }
 return (0);
 }
