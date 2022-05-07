@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+/**
+ * main - is a function that prints the name.
+ *@argc: is an arguement counter for char.
+ *@argv: is an arguement value for char.
+ *Return: Return always success.
+ **/
+
+
