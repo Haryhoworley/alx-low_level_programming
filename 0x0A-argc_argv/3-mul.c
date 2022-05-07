@@ -21,7 +21,7 @@ return (1);
 }
 else
 {
-for (i = 1; i < argc; 1++)
+for (i = 1; i < argc; i++)
 {
 res *= atoi(argv[i]);
 }
